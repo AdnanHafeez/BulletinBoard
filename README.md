@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Sample bulletin board
+application created to learn React and how the react components are composed. 
 
 ## Available Scripts
 
